@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Magesh👾.<br>🖥️  A tech enthusiast who loves learning and exploring new ideas.<br>🎓   B.E Computer Science.<br>🏢 Associate Software Engineer - Kaay Labs<br><br>📚 Currently learning<br>  Python | Data Science | Machine Learning | NestJs | Prisma 
+<h4>Hey there! I'm Magesh👾.</h4><br>🖥️  A tech enthusiast who loves learning and exploring new ideas.<br>🎓   B.E Computer Science.<br>🏢 Associate Software Engineer - Kaay Labs<br><br>📚 Currently learning<br>  Python | Data Science | Machine Learning | NestJs | Prisma 
 
 
 ## 🌐 Socials:
