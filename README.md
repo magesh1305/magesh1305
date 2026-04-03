@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Magesh👾.<br><br>🖥️ A tech enthusiast who loves learning and exploring new ideas.<br>🎓 B.E Computer Science.<br>🏢 Associate Software Engineer - Kaay Labs<br><br>📚 Currently learning<br>Python | Django | Flask | FastAPI | NestJs | Prisma
+Hey there! I'm Magesh👾.<br><br>🖥️ A tech enthusiast who loves learning and exploring new ideas.<br>🎓 B.E Computer Science.<br>🏢 Full Stack Developer - Impacteers<br><br>📚 Currently learning<br>Python | Django | Flask | FastAPI | NestJs | Prisma
 
 
 ## 🌐 Socials:
